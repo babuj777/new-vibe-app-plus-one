@@ -1,0 +1,7 @@
+{
+  "name": "CBSE Class 11 AI Tutor",
+  "description": "An AI-powered academic coach for CBSE Class 11 students to practice Biology, Physics, and Chemistry. Features voice-based answers, automated scoring, and constructive feedback from Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
